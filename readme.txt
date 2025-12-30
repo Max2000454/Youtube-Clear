@@ -12,3 +12,9 @@ Usage:
 
 Implementation Details:
 VIA Youtube Data API
+
+
+To-Do:
+[-] Subscription removal features
+[ ] Multithreading API requests to drastically speed up time
+[ ] Like/Dislike removal features
